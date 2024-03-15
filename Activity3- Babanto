@@ -17,7 +17,7 @@
 
         <!-- Navbar (sit on top) -->
         <div class="w3-top">
-          <div class="w3-bar w3-white w3-padding w3-card" style="letter-spacing:4px;">
+          <div class="w3-bar w3-brown w3-padding w3-card" style="letter-spacing:5px;">
             <a href="#home" class="w3-bar-item w3-button">Filipino Dishes</a>
             <!-- Right-sided navbar links. Hide them on small screens -->
             <div class="w3-right w3-hide-small">
@@ -29,8 +29,8 @@
         </div>
     
         <!-- Header -->
-        <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;min-width:50px" id="home">
-          <img class="w3-image" src="cuisine.jpg" width="1500" height="100">
+        <header class="w3-display-container w3-content w3-wide" style="max-width:1000px;min-width:580px" id="home">
+          <img class="w3-image" src="cuisine.jpg" width="1000" height="573">
           <div class="w3-display-bottomleft w3-padding-large w3-opacity">
           </div>
         </header>
@@ -41,14 +41,14 @@
           <!-- About Section -->
           <div class="w3-row w3-padding-64" id="about">
             <div class="w3-col m6 w3-padding-large w3-hide-small">
-             <img src="chicken.jpg" class="w3-round w3-image w3-opacity-min" alt="Table Setting" width="600" height="750">
+             <img src="chicken.jpg" class="w3-round w3-image" alt="Table Setting" width="600" height="750">
             </div>
         
             <div class="w3-col m6 w3-padding-large">
               <h1 class="w3-center">About Catering</h1><br>
-              <h5 class="w3-center">Tradition since 2024</h5>
+              <h5 class="w3-center">Tradition since 2023</h5>
               <p class="w3-large">The Catering was founded by Sharmaine Gabrielle Babanto in the year 2024. She saw that as community continue to expand they forget to see and taste Filipino Dishes in the influence of the different country specially the youth seeing the different cuisine in social media made them to forget.</p>
-              <p class="w3-medium w3-hover-text-grey w3-hide-medium">The youth now a days continue to praise and influence themselves in exotic dishes that they forgot what our own dish is. The autor would like to commend this as a opportunity to promote our own Delicacy.</p>
+              <p class="w3-medium">The youth now a days continue to praise and influence themselves in exotic dishes that they forgot what our own dish is. The autor would like to commend this as a opportunity to promote our own Delicacy.</p>
             </div>
           </div>
           
@@ -71,11 +71,11 @@
               <p class="w3-text-grey">Grilled pork and  fis cook in vinegar combined with a tast of lemon.</p><br>
             
               <h4>Grilled Fish</h4>
-              <p class="w3-text-grey">With syrup, butter and lots of berries 8.50</p>    
+              <p class="w3-text-grey">With syrup, butter and lots of berries.</p>    
             </div>
             
             <div class="w3-col l6 w3-padding-large">
-              <img src="cuisine.jpg" class="w3-round w3-image w3-opacity-min" alt="Menu" style="width:100%">
+              <img src="filipinodish.jpg" class="w3-round w3-image" alt="Menu" style="width:100%">
             </div>
           </div>
         
@@ -84,8 +84,8 @@
           <!-- Contact Section -->
           <div class="w3-container w3-padding-64" id="contact">
             <h1>Contact</h1><br>
-            <p>We offer dine in and takeout. Do not hesitate to contact us.</p>
-            <p class="w3-text-blue-grey w3-large"><b>Catering Service, 32st Nazareth, Cagayan de Oro</b></p>
+            <p>We offer dine in and takeout.Do not hesitate to contact us.</p>
+            <p class="w3-text-brown w3-large"><b>Catering Service, 31st Nazareth, Cagayan de Oro</b></p>
             <p>You can also contact us by phone 09067222409.</p>
             <form action="/action_page.php" target="_blank">
               <p><input class="w3-input w3-padding-16" type="text" placeholder="Name" required="" name="Name"></p>
@@ -101,7 +101,7 @@
         
         <!-- Footer -->
         <footer class="w3-center w3-light-grey w3-padding-32">
-          <p>Powered by @sgeb18</a></p>
+          <p>Powered by @sgeb18</p>
         </footer>
         
         
